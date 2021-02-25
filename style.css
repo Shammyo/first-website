@@ -1,0 +1,10 @@
+.blog{
+    border: 5px solid rgb(0, 30, 128);
+    border-radius: 10px;
+    margin: 40px;
+    padding: 20px 40px 60px 80px;
+    display: inline-block;
+}
+h3 {
+    text-align: center;
+}
